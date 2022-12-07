@@ -1,0 +1,25 @@
+name: cpmolgan_tmap
+channels:
+  - tmap
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pip=20.1.1
+  - python=3.6.10
+  - faerun=0.3.20
+  - rdkit=2021.03.1
+  - mhfp=1.9.2
+  - umap-learn==0.4.5
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - ipykernel
+  - tmap=1.0.4
+  - tqdm
+  - networkx
+  - pip:
+    - selfies==1.0.4
+
+

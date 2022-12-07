@@ -1,0 +1,10 @@
+SMILES_standard
+CC1CN(C(C)CO)C(=O)CCCn2cc(nn2)COC1CN(C)C(=O)Nc1ccccc1C(F)(F)F
+C=CCN1C(=O)NC(=O)C(=CNc2ccc(OC)cc2C)C1=O
+O=C(C1C2NC(Cn3c2ccc(-c2ccccc2)c3=O)C1CO)N1CCCCC1
+COc1ccc2nc(O)c(CN(CCc3ccccc3)C(C)=O)cc2c1
+CC1=C2C3OC(=O)C(C)C3CCC2(C)C=CC1=O
+CC1CN(C(C)CO)C(=O)CCCn2cc(nn2)COC1CN(C)Cc1ccc(-c2ccccc2)cc1
+COC1CN(C)C(=O)c2ccc(NC(C)=O)cc2OCC(C)N(C(=O)c2ccccc2)CC1C
+CN1CCN(C(=O)CC2CC3c4cc(NC(=O)Cc5ccncc5)ccc4OC3C(CO)O2)CC1
+CC1CN(C(C)CO)C(=O)c2ccccc2-c2ccccc2COC1CN(C)C

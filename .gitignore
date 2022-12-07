@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+cpmolgan.egg-info
+
+.idea
+
+*.DS_Store
+
+data.tar.gz
+cpmolgan/model_weights.tar.gz
